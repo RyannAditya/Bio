@@ -12,7 +12,7 @@ Intro =
 "Status": "Learning",
 "Address": "Komam, Kab.Paser, Kalimantan Timur, Indonesia",
 "Birthday": "April - 12"
-"My GirlFriend": "https://instagram.com/rnaa_128?igshid=YmMyMTA2M2Y= 🖤"
+"My GirlFriend": "Rnaaa 🖤"
 
    
   "Big Thanks To"
