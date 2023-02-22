@@ -1,6 +1,6 @@
 # Bio
 
-## Hello IM Fahri <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img src="https://www.gambaranimasi.org/data/media/1904/animasi-bergerak-smiley-kacamata-hitam-0109.gif" width="23px">
+## Hi Im Yannnn <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img src="https://www.gambaranimasi.org/data/media/1904/animasi-bergerak-smiley-kacamata-hitam-0109.gif" width="23px">
 <a href="https://github.com/RyannAditya"><img src="https://cardivo.vercel.app/api?name=Ryann&description=Hi,%20i%27m%20Ryann%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20👋&image=https://wallpaperaccess.com/full/7857767.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@m.ryann__&github=RyannAditya&pattern=leaf&colorPattern=%23eaeaea" /><a>
 </p>
 
